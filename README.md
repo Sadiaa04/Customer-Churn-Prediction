@@ -4,7 +4,7 @@ The data includes customer details, services, and billing info.
 
 Goal -> find what causes churn and build models to **reduce customer loss**.
 
-### PROJECT WORKFLOW
+### <u>PROJECT WORKFLOW</u>
 
 #### 1. Data Cleaning
  - Dropped useless columns (Customer ID, Country, etc).
